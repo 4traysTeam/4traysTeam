@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://tenor.com/fCaE4EShhI2.gif" width="500" alt="Kiw Kiw GIF">
+  <img src="kiw-kiw.gif" width="500" alt="Kiw Kiw GIF">
 </p>
-
 
 ###
 
