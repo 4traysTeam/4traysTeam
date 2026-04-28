@@ -1,4 +1,6 @@
-![Kiw Kiw GIF](https://tenor.com/fCaE4EShhI2.gif)
+<p align="center">
+  <img src="https://tenor.com/fCaE4EShhI2.gif" width="500" alt="Kiw Kiw GIF">
+</p>
 
 
 ###
