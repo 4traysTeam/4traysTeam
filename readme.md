@@ -14,7 +14,7 @@ Welcome to my GitHub profile! who loves exploring new technologies and building 
 - **Languages:** JavaScript/TypeScript, PHP, Lua
 - **Frameworks & Libraries:** React.js, Next.js, Remix, Monetloader, Moonloader, Svelte, SvelteKit
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, VSCode, Zed
+- **Tools:** Git, VSCode, Zed, ACode
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> &nbsp; Just Random Activity
 
